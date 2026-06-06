@@ -3,7 +3,6 @@
 @import "../node_modules/preline/variants.css";
 @import "../node_modules/preline/css/themes/theme.css";
 
-
 body {
     background-image: linear-gradient(to right, #091a12 0%, #000000 30%, #042c19 900%);
 }
